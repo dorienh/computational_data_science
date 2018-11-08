@@ -1,2 +1,2 @@
 # computational_data_science
-Repository the CDS class at SUTD.
+Repository for the Computational Data Science (CDS) class at SUTD.
